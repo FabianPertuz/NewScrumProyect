@@ -1,0 +1,14 @@
+[
+    {
+        "video_name": "Python Tutorial for Beginners",
+        "link": "https://www.youtube.com/watch?v=9N6a-VLBa2I",
+        "duration": "20:33",
+        "platform": "YouTube"
+    },
+    {
+        "video_name": "readers",
+        "link": "https://www.youtube.com/watch?v=ZBx7oWCJ4aY",
+        "duration": "13:53",
+        "platform": "youtube"
+    }
+]
