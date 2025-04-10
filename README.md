@@ -14,10 +14,10 @@ Crear una versión simple y local de una red social de videos cortos usando solo
 Los usuarios se registran con un nombre de usuario y contraseña.
 Los datos se guardan en un archivo users.json.
 📹 Subir Video
-El usuario puede seleccionar un archivo de video local (.mp4).
-El video se copia a la carpeta /videos y se asocia al usuario en el JSON.
+El usuario puede seleccionar el link de un video y publicarlo
+El usuario tiene que poner datos como a que plataforma pertenece duracion y tema.
 🎬 Ver Videos
-El usuario puede ver videos de otros usuarios en pantalla.
+El usuario puede ver que links han subido otros usuarios en pantalla.
 Cada video tiene botones de:
 👍 Like
 ⏭️ Siguiente
